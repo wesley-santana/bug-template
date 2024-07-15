@@ -1,25 +1,27 @@
-## Environment:
-## Version: 
-## Last working version: 
-## Framework Version: 
-## Browsers: 
-## OS: 
+# 🪲 Bug template
 
-## Steps to reproduce
+### Environment:
+### Version: 
+### Last working version: 
+### Framework Version: 
+### Browsers: 
+### OS: 
+
+## 🧪 Steps to reproduce
 * Case 1: 
 * Case 2: 
 * Case 3: 
 
-## Expected Behavior
+## 👍 Expected Behavior
 * Case 1: 
 * Case 2: 
 * Case 3: 
 
-## Actual Behavior
+## 👎 Actual Behavior
 * Case 1: 
 * Case 2: 
 * Case 3: 
 
-## Reproduction Link:
+## 🔗 Reproduction Link:
 
-## Other comments
+## 💬 Other comments
